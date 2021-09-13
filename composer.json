@@ -1,0 +1,20 @@
+{
+    "name": "ismaxim/scratch_framework",
+    "authors": [
+        {
+            "name": "Maxim Grynykha",
+            "email": "maximgrynykha@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "require-dev": {
+        "symfony/var-dumper": "^5.3"
+    },
+    "require": {
+        "vlucas/phpdotenv": "^5.3"
+    }
+}
