@@ -1,6 +1,6 @@
 <?php
 
-use app\core\Application;
+use Ismaxim\ScratchFrameworkCore\Application;
 
 // dump(\app\core\Application::$app->user); 
 ?>

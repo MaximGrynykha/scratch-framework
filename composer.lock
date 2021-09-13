@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "a756c0ac77dd8072bec9b673dfb81cb8",
+    "content-hash": "8e2db1dfa5ca783845d4169e1d9f3534",
     "packages": [
         {
             "name": "graham-campbell/result-type",
@@ -66,6 +66,39 @@
                 }
             ],
             "time": "2021-08-28T21:34:50+00:00"
+        },
+        {
+            "name": "ismaxim/scratch-framework-core",
+            "version": "v0.1.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/ismaxim/scratch-framework-core.git",
+                "reference": "9d4d6ae0373a56364ef5c437361d9daf501de3e5"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/ismaxim/scratch-framework-core/zipball/9d4d6ae0373a56364ef5c437361d9daf501de3e5",
+                "reference": "9d4d6ae0373a56364ef5c437361d9daf501de3e5",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Ismaxim\\ScratchFrameworkCore\\": "."
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "authors": [
+                {
+                    "name": "Maxim Grynykha",
+                    "email": "maximgrynykha@gmail.com"
+                }
+            ],
+            "support": {
+                "issues": "https://github.com/ismaxim/scratch-framework-core/issues",
+                "source": "https://github.com/ismaxim/scratch-framework-core/tree/v0.1.1"
+            },
+            "time": "2021-09-13T11:12:40+00:00"
         },
         {
             "name": "phpoption/phpoption",

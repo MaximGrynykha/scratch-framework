@@ -2,7 +2,7 @@
 
 namespace app\migrations;
 
-use app\core\Application;
+use Ismaxim\ScratchFrameworkCore\Application;
 
 class m0003_add_default_value_on_status_column_to_users_table
 {

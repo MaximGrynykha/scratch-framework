@@ -2,8 +2,8 @@
 
 namespace app\models;
 
-use app\core\Application;
-use app\core\Model;
+use Ismaxim\ScratchFrameworkCore\Application;
+use Ismaxim\ScratchFrameworkCore\Model;
 
 class LoginForm extends Model
 {

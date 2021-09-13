@@ -1,5 +1,5 @@
 <?php
-/** @var app\core\View $this */
+/** @var Ismaxim\ScratchFrameworkCore\View $this */
 $this->title = 'Profile';
 ?>
 

@@ -2,11 +2,11 @@
 
 namespace app\controllers;
 
-use app\core\Application;
-use app\core\Controller;
-use app\core\middlewares\AuthMiddleware;
-use app\core\Request;
-use app\core\Response;
+use Ismaxim\ScratchFrameworkCore\Application;
+use Ismaxim\ScratchFrameworkCore\Controller;
+use Ismaxim\ScratchFrameworkCore\middlewares\AuthMiddleware;
+use Ismaxim\ScratchFrameworkCore\Request;
+use Ismaxim\ScratchFrameworkCore\Response;
 use app\models\LoginForm;
 use app\models\User;
 

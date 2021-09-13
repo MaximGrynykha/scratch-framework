@@ -3,8 +3,8 @@
 namespace app\models;
 
 use app\core\DbModel;
-use app\core\Model;
-use app\core\UserModel;
+use Ismaxim\ScratchFrameworkCore\Model;
+use Ismaxim\ScratchFrameworkCore\UserModel;
 
 class User extends UserModel
 {

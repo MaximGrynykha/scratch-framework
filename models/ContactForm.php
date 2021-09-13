@@ -2,7 +2,7 @@
 
 namespace app\models;
 
-use app\core\Model;
+use Ismaxim\ScratchFrameworkCore\Model;
 
 class ContactForm extends Model
 {

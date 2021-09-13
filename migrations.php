@@ -1,6 +1,6 @@
 <?php
 
-use app\core\Application; 
+use Ismaxim\ScratchFrameworkCore\Application; 
 use Dotenv\Dotenv;
 
 require __DIR__."/vendor/autoload.php";

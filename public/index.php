@@ -2,7 +2,7 @@
 
 use app\controllers\AuthController;
 use app\controllers\SiteController;
-use app\core\Application;
+use Ismaxim\ScratchFrameworkCore\Application;
 use app\models\User;
 use Dotenv\Dotenv;
 
